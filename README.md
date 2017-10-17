@@ -4,8 +4,6 @@
 
 ```sh 
 docker pull ahmedahmed/apache
-docker pull ahmedahmed/hadoop-docker
-
 ```
 
 ## To build image 
